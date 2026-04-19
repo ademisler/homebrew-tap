@@ -1,9 +1,9 @@
 cask "codexcontrol" do
-  version "1.1.0"
-  sha256 "3258cbb2c7a4aa762972c59acbc78c0e75fbb4072cbdd0506a1299a6a58cd8ac"
+  version "1.1.1"
+  sha256 "4f1ae65d9fb8c584563a2dcbfaa921028066f1992272986e5f70949cf0eb4f3a"
 
-  url "https://github.com/ademisler/CodexControl/releases/download/v#{version}/CodexControl-macos.zip",
-      verified: "github.com/ademisler/CodexControl/"
+  url "https://github.com/ademisler/codexcontrol/releases/download/v#{version}/CodexControl-macos.zip",
+      verified: "github.com/ademisler/codexcontrol/"
   name "CodexControl"
   desc "Local-first Codex quota tracker and account switcher"
   homepage "https://codexcontrol.app"
