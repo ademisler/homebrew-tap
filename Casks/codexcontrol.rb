@@ -1,6 +1,6 @@
 cask "codexcontrol" do
-  version "1.0.0"
-  sha256 "7834f816de9aae0bca084273bba490c96a1fd34b60f48db894dc6de102bc6853"
+  version "1.1.0"
+  sha256 "3258cbb2c7a4aa762972c59acbc78c0e75fbb4072cbdd0506a1299a6a58cd8ac"
 
   url "https://github.com/ademisler/CodexControl/releases/download/v#{version}/CodexControl-macos.zip",
       verified: "github.com/ademisler/CodexControl/"
